@@ -12,3 +12,7 @@ $ git clone https://github.com/3kanAlpha/compvid.git
 $ cd compvid
 $ pip install -e .
 ```
+## Usage
+```sh
+$ compv [PATH-TO-FILE]
+```
